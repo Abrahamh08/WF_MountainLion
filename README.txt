@@ -1,10 +1,10 @@
 This is a (hopefully temporary) fix to allow  WiiFlashServerJ to run on
-OS X 10.8 \"Mountain Lion\". *You do not need this* if you use an
+OS X 10.8 "Mountain Lion". *You do not need this* if you use an
 earlier version of OS X.
 
 Step 1 - Download WiiFlashServerJ+BSB at http://cote.cc/w/wp-content/uploads/drupal/WiiFlashServerJ+BSB.app_.zip and move it to your Applications folder.
 
-Step 2 - Right click and check 'Run in 32 bit mode'.
+Step 2 - Command-click, press 'Get info' and check 'Run in 32 bit mode'.
 
 Step 3 - Run "WiiFlash.command" instead of starting WiiFlashServerJ+BSB.
 directly (from the Dock or the Applications folder) as you\'d normally do.
